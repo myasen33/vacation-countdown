@@ -32,3 +32,11 @@ p{
     align-items: flex-end;
   }
 }
+
+@media screen and(max-length: 900px;){
+  body{
+     background-image: linear-gradient(aquamarine, yellow);
+    align-items: stretch;
+  }
+}
+    
