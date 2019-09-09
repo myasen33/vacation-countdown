@@ -1,4 +1,4 @@
-var vacation = new Date("Jul 22, 2019 00:00:00").getTime();
+var vacation = new Date("Jul 22, 2020 00:00:00").getTime();
 var x = setInterval(function() {
 var now = new Date().getTime();
 var distance = vacation - now;
